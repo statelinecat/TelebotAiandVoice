@@ -1,0 +1,7 @@
+python-telegram-bot
+pyTelegramBotAPI
+requests
+gTTS
+ffmpeg-python
+SpeechRecognition
+python-dotenv
